@@ -1,4 +1,6 @@
 # Blockchain
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 
 #### Uma blockchain é uma tecnologia de registro distribuído que permite a criação de um banco de dados seguro e transparente, onde as informações são armazenadas em blocos encadeados de forma cronológica. Cada bloco contém um conjunto de transações ou dados, um timestamp (marca temporal) e um hash que conecta o bloco ao anterior, formando uma cadeia. Essa estrutura garante que, uma vez que um bloco é adicionado à cadeia, ele não pode ser alterado sem modificar todos os blocos subsequentes, o que torna a blockchain altamente resistente a fraudes e manipulações.
 
