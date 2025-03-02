@@ -34,3 +34,10 @@
  - #### Adição de Novos Blocos: Um loop adiciona novos blocos à blockchain, gerando dados fictícios para cada bloco.
 
  - #### Exibição da Blockchain: Após a adição dos blocos, a blockchain é exibida no console.
+
+
+# Contribuições
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um issue ou enviar um pull request.;)
+
+## Autores
+- [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
