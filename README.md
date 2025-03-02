@@ -16,3 +16,19 @@
  - #### Segurança e Transparência: A natureza descentralizada da blockchain, combinada com a criptografia, torna as transações seguras e transparentes. Todos os participantes da rede podem verificar as transações, mas não podem alterá-las sem o consenso da maioria.
 
 - ***Em resumo, a blockchain é uma tecnologia inovadora que permite o registro seguro e transparente de informações, sendo a base para diversas aplicações, como criptomoedas, contratos inteligentes e sistemas de rastreamento de produtos.***
+
+## Como Funciona no código
+
+- #### Classe Block: Define a estrutura de um bloco, que contém um índice, o hash do bloco anterior, um timestamp, os dados do bloco e o hash do próprio bloco.
+
+- #### Função calculate_hash: Calcula o hash de um bloco com base em seu índice, hash anterior, timestamp e dados. Utiliza o algoritmo SHA-256.
+
+ - #### Função create_genesis_block: Cria o bloco gênesis (o primeiro bloco da blockchain).
+
+ - #### Função create_new_block: Cria um novo bloco com base no bloco anterior e nos dados fornecidos.
+
+ - #### Inicialização da Blockchain: A blockchain é inicializada com o bloco gênesis.
+
+ - #### Adição de Novos Blocos: Um loop adiciona novos blocos à blockchain, gerando dados fictícios para cada bloco.
+
+ - #### Exibição da Blockchain: Após a adição dos blocos, a blockchain é exibida no console.
